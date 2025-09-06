@@ -6,3 +6,6 @@
 - My work emphasizes user experience, performance, and collaboration: I implement lazy loading, code-splitting, and performance optimizations that translate directly into measurable improvements.
 - I value engineering beyond visuals: treating the front-end as a system, I prioritize scalability, accessibility, and developer ergonomics.
 - Driven by continuous learning, I adopt modern architectures, clean code practices, and efficient workflows to deliver engineered solutions—not just interfaces.
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Engineer-Cool%20Silver?color=B0BBC0&style=for-the-badge" />
+</p>
