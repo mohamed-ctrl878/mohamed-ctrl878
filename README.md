@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #B0BBC0;">👋 Hello, I'm Mohamed Mahmoud</h1>
+<h1 align="center" style="color: #B0BBC0;"> I'm Mohamed Mahmoud</h1>
 
 **Front-End Engineer** — I architect and build scalable, high-performance web experiences grounded in clear engineering principles and robust architecture.
 
