@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mohamed Mahmoud
+# 👋 Hello, I'm Mohamed Mahmoud  
 
-⚡ Front-End Engineer passionate about designing and implementing scalable, maintainable, and well-structured web applications.  
+**Front-End Engineer** — I architect and build scalable, high-performance web experiences grounded in clear engineering principles and robust architecture.
 
-🔹 I focus on applying software engineering principles and architectural patterns to the front-end — ensuring clean codebases, reusable components, and sustainable project growth.  
-🔹 My work goes beyond UI; I treat the front-end as an engineered system, balancing performance, scalability, and developer experience.  
-
-🌱 Continuously exploring modern architectures, clean code practices, and efficient workflows to deliver robust products.  
+- I design maintainable front-end systems with reusable components, clean code, and modular structure—ensuring long-term productivity and project growth.
+- My work emphasizes user experience, performance, and collaboration: I implement lazy loading, code-splitting, and performance optimizations that translate directly into measurable improvements.
+- I value engineering beyond visuals: treating the front-end as a system, I prioritize scalability, accessibility, and developer ergonomics.
+- Driven by continuous learning, I adopt modern architectures, clean code practices, and efficient workflows to deliver engineered solutions—not just interfaces.
