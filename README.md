@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Mahmoud</h1>
 
 <p align="center">
-  Full-Stack Engineer &nbsp;·&nbsp; Node.js · React · System Design
+  Full-Stack Engineer &nbsp;·&nbsp; Node.js · React · System Design, DevOps
 </p>
 
 <p align="center">
