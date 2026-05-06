@@ -14,7 +14,7 @@ I build systems that hold up — not just under normal load, but under the kind 
 
 My work lives at the intersection of clarity and scale: APIs designed to outlast the requirements they were written for, frontends that stay coherent as they grow, and backend logic that doesn't collapse when the edge cases arrive. I graduated from **Tanta University** in 2025 and I'm currently deepening my foundations through **MIT OpenCourseWare via edX** — because I've found that the engineers who age well are the ones who understood why, not just how.
 
-Beyond client work, I build **tools for developers** — utilities and libraries that reduce friction in day-to-day engineering: automation scripts, CLI helpers, workflow integrations, and open-source components that others can drop into their own stacks. Building for other builders sharpens the thinking considerably.
+Beyond client work, I build **tools for developers** — utilities and libraries that reduce friction in day-to-day engineering: automation scripts, workflow integrations, and open-source projects that others can drop into their own stacks. Building for other builders sharpens the thinking considerably.
 
 I've worked through **320+ algorithmic and system design problems** — not as a performance, but because reasoning under constraint is a transferable skill that shows up everywhere, from database schema decisions to API contract negotiations.
 
