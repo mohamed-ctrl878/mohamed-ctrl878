@@ -86,4 +86,4 @@ A platform built around the idea that developers grow faster in proximity to oth
 ## Contact
 
 **Phone:** +20 10 13763861  
-**mail:** [github.com/mohamed-ctrl878](mohamedeleskanderwow@gmail.com)
+**mail:** [mohamedeleskanderwow@gmail.com](mohamedeleskanderwow@gmail.com)
