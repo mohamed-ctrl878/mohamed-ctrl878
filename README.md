@@ -1,61 +1,67 @@
-<h1 align="center">Mohamed Mahmoud</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Engineer &nbsp;·&nbsp; Node.js · React · System Design, DevOps
-</p>
+# Mohamed Mahmoud
 
-<p align="center">
-  <a href="https://github.com/mohamed-ctrl878">
-    <img src="https://komarev.com/ghpvc/?username=mohamed-ctrl878&color=555&style=flat-square&label=profile+views" />
-  </a>
-</p>
+**Full-Stack Engineer · Node.js · React · System Design · DevOps**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamed-ctrl878&color=0a0a0a&style=flat-square&label=profile+views)](https://github.com/mohamed-ctrl878)
+
+</div>
 
 ---
 
-I'm a software engineer who cares deeply about how systems are built — not just that they work, but *why* they're designed the way they are.
+I build systems that hold up — not just under normal load, but under the kind of complexity that reveals whether the architecture was actually thought through.
 
-My background spans the full stack, but I'm most at home working on the boundary between complexity and clarity: designing APIs that scale, architecting frontends that stay maintainable, and writing backend logic that holds up under pressure.
+My work lives at the intersection of clarity and scale: APIs designed to outlast the requirements they were written for, frontends that stay coherent as they grow, and backend logic that doesn't collapse when the edge cases arrive. I graduated from **Tanta University** in 2025 and I'm currently deepening my foundations through **MIT OpenCourseWare via edX** — because I've found that the engineers who age well are the ones who understood why, not just how.
 
-I graduated from **Tanta University** in 2025 and I'm currently pursuing further studies at **MIT via edX** — because I believe the fundamentals never go out of style.
+Beyond client work, I build **tools for developers** — utilities and libraries that reduce friction in day-to-day engineering: automation scripts, CLI helpers, workflow integrations, and open-source components that others can drop into their own stacks. Building for other builders sharpens the thinking considerably.
 
-Outside of work, I spend time on competitive problem solving. I've worked through **320+ problems** — 190+ on LeetCode — across DSA, SQL, and system design. Not for the streak, but because thinking clearly under constraints is a skill that transfers everywhere.
-
----
-
-## What I work with
-
-```
-Languages    JavaScript · SQL
-Frontend     React 19 · Redux Toolkit · TailwindCSS · Vite
-Backend      Node.js · Express · Strapi v5 · Socket.io · REST
-Database     PostgreSQL · IndexedDB
-DevOps       Docker · GitHub Actions · Linux (Ubuntu) · CI/CD
-Testing      Vitest · Jest · React Testing Library
-CS           DSA · System Design · Software Architecture · OOP · Networks
-```
+I've worked through **320+ algorithmic and system design problems** — not as a performance, but because reasoning under constraint is a transferable skill that shows up everywhere, from database schema decisions to API contract negotiations.
 
 ---
 
-## How I think about engineering
+## Technical Stack
 
-I lean toward **Clean Architecture** — decoupling business logic from delivery mechanisms so that the core of a system stays readable and testable regardless of what framework surrounds it.
-
-I have hands-on experience building real-time systems (Socket.io), recommendation engines (hybrid weighting, behavioral feedback loops), NLP pipelines (auto-tagging Arabic/English content), and scalable CI/CD workflows with Docker and GitHub Actions.
-
-I take security seriously — RBAC, OAuth flows, and input sanitization aren't afterthoughts in my work.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ctrl878&show_icons=true&hide_border=true&count_private=true&theme=default" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ctrl878&layout=compact&hide_border=true&theme=default" height="155" />
-</p>
+| Domain | Technologies |
+|---|---|
+| Languages | JavaScript · SQL |
+| Frontend | React 19 · Redux Toolkit · TailwindCSS · Vite |
+| Backend | Node.js · Express · Strapi v5 · Socket.io · REST |
+| Database | PostgreSQL · IndexedDB |
+| DevOps | Docker · GitHub Actions · Linux (Ubuntu) · CI/CD |
+| Testing | Vitest · Jest · React Testing Library |
+| CS Fundamentals | DSA · System Design · Software Architecture · OOP · Networks |
 
 ---
 
-## Get in touch
+## Engineering Philosophy
 
-- 📞 &nbsp;+20 10 13763861  
-- 🐙 &nbsp;[github.com/mohamed-ctrl878](https://github.com/mohamed-ctrl878)
+I build around **Clean Architecture** — separating business logic from delivery mechanisms so that the core of a system stays readable, testable, and portable regardless of what framework happens to be surrounding it at any given moment.
+
+In practice, this means:
+
+- **Real-time systems** built with Socket.io that don't degrade under concurrent load
+- **Recommendation engines** using hybrid weighting and behavioral feedback loops
+- **NLP pipelines** for auto-tagging Arabic and English content
+- **CI/CD workflows** with Docker and GitHub Actions that treat deployment as a first-class engineering concern
+- **Security** as a structural property — RBAC, OAuth flows, and input sanitization are baked into the design, not bolted on afterward
+- **Developer tooling** that removes repetitive work from the engineering process, giving developers time back for the decisions that actually require judgment
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-ctrl878&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="150" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ctrl878&layout=compact&hide_border=true&theme=default" height="150" />
+
+</div>
+
+---
+
+## Contact
+
+**Phone:** +20 10 13763861  
+**GitHub:** [github.com/mohamed-ctrl878](https://github.com/mohamed-ctrl878)
