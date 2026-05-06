@@ -51,7 +51,7 @@ In practice, this means:
 
 ## Products
 
-Things I'm building — not for clients, but because the problem was worth solving.
+Things I'm building — not ""JUST :)"" for clients, but because the problem was worth solving.
 
 ---
 
