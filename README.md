@@ -67,6 +67,8 @@ Most of what a developer learns never makes it into their GitHub graph — a cou
 
 **[axecode](https://drive.google.com/file/d/1Ixc1E6sqtlD4vh0hCk3LkkHsRlSJ4-oi/view?usp=sharing)** &nbsp;·&nbsp; Developer Ecosystem
 
+<img src="https://raw.githubusercontent.com/mohamed-ctrl878/mohamed-ctrl878/main/favicon.svg" width="48" align="left" />&nbsp;
+
 A platform built around the idea that developers grow faster in proximity to other developers. axecode brings together daily logs, structured courses, live events, and interactive problem solving — but the core of it is the workshop model: developers building real software together, in public, with other members of the platform. Less social network, more engineering community.
 
 ---
