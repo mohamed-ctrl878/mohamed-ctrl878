@@ -57,7 +57,7 @@ Things I'm building — not ""JUST :)"" for clients, but because the problem was
 
 
 
-**[axecode](https://drive.google.com/file/d/1Ixc1E6sqtlD4vh0hCk3LkkHsRlSJ4-oi/view?usp=sharing)** &nbsp;·&nbsp; Developer Ecosystem
+**[AxeCode]** &nbsp;·&nbsp; Developer Ecosystem
 
 <img src="https://raw.githubusercontent.com/mohamed-ctrl878/mohamed-ctrl878/main/favicon.svg" width="48" align="left" />&nbsp;
 
@@ -65,7 +65,7 @@ A platform built around the idea that developers grow faster in proximity to oth
 
 
 ---
-**[Leafy](https://drive.google.com/file/d/17DdkdkHR-nW-OIgApHNUlNoMsVBNVzV5/view?usp=sharing)**
+**[Leafy]**
 
 <img src="https://raw.githubusercontent.com/mohamed-ctrl878/mohamed-ctrl878/main/app_icon_v2.png" width="48" align="left" />&nbsp;
 
