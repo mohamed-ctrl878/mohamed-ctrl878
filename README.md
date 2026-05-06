@@ -53,9 +53,7 @@ In practice, this means:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-ctrl878&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="150" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ctrl878&layout=compact&hide_border=true&theme=default" height="150" />
+<img src="https://streak-stats.demolab.com?user=mohamed-ctrl878&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 
 </div>
 
