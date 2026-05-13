@@ -75,6 +75,7 @@ Most of what a developer learns never makes it into their GitHub graph — a cou
 ---
 
 ## GitHub Activity
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
