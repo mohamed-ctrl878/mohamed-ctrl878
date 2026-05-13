@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
-  workflow_dispatch: # أضفت لك هذا السطر لتتمكن من تشغيل الأداة يدوياً للتجربة
+  workflow_dispatch: 
 
 jobs:
   update-readme:
