@@ -15,6 +15,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.4
+        uses: pemtajo/badge-readme@main
         with:
           ACCLAIM_USER: "mohamed-ctrl878"
