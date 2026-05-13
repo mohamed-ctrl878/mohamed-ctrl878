@@ -4,11 +4,17 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
+  workflow_dispatch: # أضفت لك هذا السطر لتتمكن من تشغيل الأداة يدوياً للتجربة
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Badges - Readme
-        uses: "pemtajo/badge-readme@master"
+        uses: pemtajo/badge-readme@master
+        with:
           ACCLAIM_USER: "mohamed-ctrl878"
