@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          ACCLAIM_USER: mohamed-ctrl878
+        uses: "pemtajo/badge-readme@master"
+          ACCLAIM_USER: "mohamed-ctrl878"
